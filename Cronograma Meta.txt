@@ -1,0 +1,33 @@
+Primeiros passos para desenvolvimento web - 24/04
+Introdução a criação de websites com HTML5 e CSS3 - 25/04
+Construindo páginas para internet com Bootstrap - 26/04
+Recriando a Interface do Netflix - 26/04
+Coleções - 27/04
+Debugging e Error Handling - 27/04
+Javascript Assíncrono - 27/04
+Orientação a objetos - 28/04
+Map, Filter e Reduce - 28/04
+Manipulando a D.O.M. com JavaScript - 29/04
+Resolvendo Desafios de Código em Javascript - 29/04
+Desafios Iniciais Js - Carrefour Web - 29/04
+Introdução ao ReactJS - 30/04
+Desenvolvimento de aplicações para internet com ReactJS - 01/05
+Introdução a Redux com ReactJS - 02/05
+Desafios Intermediários Js - Carrefour Web Developer - 03/05
+Trabalhando com States & Effects no ReactJs - 04/05
+Desenvolvendo uma Progressive Web Application com React 19 - 04/05
+Introdução ao Ecossistema e Documentação Java - 05/05
+Dominando IDEs Java - 06/05
+Operadores Matemáticos em Java - 07/05
+Entendendo Métodos Java - 07/05 
+Lógica Condicional e Controle de Fluxos em Java - 08/05
+Estruturas de Repetição e Arrays em Java - 09/05
+Desafios Iniciais Java - Carrefour Web Developer - 10/05
+Programação Orientada a Objetos - 11/05 - 12/05
+Debugging Java - 13/05
+Tratamento de Exceções em Java - 13/05
+Introdução ao framework Spring Boot - 14/05
+Simplificando Projetos Java com o Spring Boot - 14/05 - 15/05
+Imersão no Spring Framework com Spring Boot - 16/05
+Desafios Intermediários Java - Carrefour Web Developer - 17/05
+Conhecendo Spring Data JPA na prática com Java - 18/05
